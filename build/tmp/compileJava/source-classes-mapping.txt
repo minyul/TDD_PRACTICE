@@ -1,2 +1,16 @@
 division/App.java
  division.App
+pattern/strategy/Moving.java
+ pattern.strategy.Moving
+pattern/strategy/Train.java
+ pattern.strategy.Train
+pattern/strategy/FirstMoveStrategy.java
+ pattern.strategy.FirstMoveStrategy
+pattern/strategy/MoveableStrategy.java
+ pattern.strategy.MoveableStrategy
+pattern/strategy/SecondStrategy.java
+ pattern.strategy.SecondStrategy
+pattern/strategy/Bus.java
+ pattern.strategy.Bus
+pattern/strategy/App.java
+ pattern.strategy.App
