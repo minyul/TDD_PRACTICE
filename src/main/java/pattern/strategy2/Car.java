@@ -6,8 +6,12 @@ public class Car {
 
 	private int position;
 
+	public Car(int position) {
+		this.position = position;
+	}
+
 	public void move(NumberGenerator generator) {
-		if (generator.getRandom() >= MOVE_RANGE) {
+		if (generator.getRandom() > MOVE_RANGE) {
 			position++;
 		}
 	}

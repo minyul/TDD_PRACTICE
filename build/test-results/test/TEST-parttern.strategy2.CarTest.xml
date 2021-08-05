@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="parttern.strategy2.CarTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-05T15:03:51" hostname="DESKTOP-NJ8D271" time="0.082">
+  <properties/>
+  <testcase name="숫자 4이하를 Car가 받았을 때, 움직이는지 확인하는 테스트" classname="parttern.strategy2.CarTest" time="0.082"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

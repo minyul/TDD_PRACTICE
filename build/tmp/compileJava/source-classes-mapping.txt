@@ -14,3 +14,11 @@ pattern/strategy/Bus.java
  pattern.strategy.Bus
 pattern/strategy/App.java
  pattern.strategy.App
+pattern/strategy2/MainGeneratorStrategy.java
+ pattern.strategy2.MainGeneratorStrategy
+pattern/strategy2/NumberGenerator.java
+ pattern.strategy2.NumberGenerator
+pattern/strategy2/Car.java
+ pattern.strategy2.Car
+pattern/strategy2/App.java
+ pattern.strategy2.App

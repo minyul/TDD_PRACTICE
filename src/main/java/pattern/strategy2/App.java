@@ -8,7 +8,7 @@ public class App {
 		Random random = new Random();
 		MainGeneratorStrategy strategy = new MainGeneratorStrategy(random);
 
-		Car car = new Car();
+		Car car = new Car(0);
 		car.move(strategy);
 	}
 }
