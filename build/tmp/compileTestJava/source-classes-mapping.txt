@@ -1,3 +1,5 @@
 parttern/strategy2/CarTest.java
  parttern.strategy2.CarTest
  parttern.strategy2.CarTest$1
+parttern/firstclass/NameTest.java
+ parttern.firstclass.NameTest

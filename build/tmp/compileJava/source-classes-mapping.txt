@@ -22,3 +22,5 @@ pattern/strategy2/Car.java
  pattern.strategy2.Car
 pattern/strategy2/App.java
  pattern.strategy2.App
+firstclass/Name.java
+ firstclass.Name
