@@ -24,3 +24,5 @@ pattern/strategy2/App.java
  pattern.strategy2.App
 firstclass/Name.java
  firstclass.Name
+random/Minyul.java
+ random.Minyul
