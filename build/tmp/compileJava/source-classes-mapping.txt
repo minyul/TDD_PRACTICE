@@ -26,3 +26,5 @@ firstclass/Name.java
  firstclass.Name
 random/Minyul.java
  random.Minyul
+lotto/Calculator.java
+ lotto.Calculator
